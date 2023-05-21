@@ -1,0 +1,47 @@
+[
+    {
+        "hebrew": "אדום",
+        "english": "red",
+        "transcription": "a-dom"
+    },
+    {
+        "hebrew": "ירוק",
+        "english": "green",
+        "transcription": "ya-rok"
+    },
+    {
+        "hebrew": "כחול",
+        "english": "blue",
+        "transcription": "ka-khol"
+    },
+    {
+        "hebrew": "כתום",
+        "english": "orange (color)",
+        "transcription": "ka-tom"
+    },
+    {
+        "hebrew": "לבן",
+        "english": "white",
+        "transcription": "la-van"
+    },
+    {
+        "hebrew": "סגול",
+        "english": "purple",
+        "transcription": "sa-gol"
+    },
+    {
+        "hebrew": "צבע",
+        "english": "color",
+        "transcription": "tse-va"
+    },
+    {
+        "hebrew": "צהוב",
+        "english": "yellow",
+        "transcription": "tsa-hov"
+    },
+    {
+        "hebrew": "שחור",
+        "english": "black",
+        "transcription": "sha-khor"
+    }
+]

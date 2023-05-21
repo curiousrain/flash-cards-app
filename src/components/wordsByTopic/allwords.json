@@ -1,0 +1,2502 @@
+[
+    {
+        "hebrew": "אבא",
+        "english": "dad",
+        "transcription": "a-ba"
+    },
+    {
+        "hebrew": "אבטיח",
+        "english": "watermelon",
+        "transcription": "a-va-ti-akh"
+    },
+    {
+        "hebrew": "אביב",
+        "english": "Spring",
+        "transcription": "a-viv"
+    },
+    {
+        "hebrew": "אבל",
+        "english": "but",
+        "transcription": "a-val"
+    },
+    {
+        "hebrew": "אגודל",
+        "english": "thumb",
+        "transcription": "a-gu-dal"
+    },
+    {
+        "hebrew": "אגוז מלך",
+        "english": "walnut",
+        "transcription": "e-goz me-lekh"
+    },
+    {
+        "hebrew": "אגס",
+        "english": "pear",
+        "transcription": "a-gas"
+    },
+    {
+        "hebrew": "אדום",
+        "english": "red",
+        "transcription": "a-dom"
+    },
+    {
+        "hebrew": "או",
+        "english": "or",
+        "transcription": "o"
+    },
+    {
+        "hebrew": "אוזן",
+        "english": "ear",
+        "transcription": "o-zen"
+    },
+    {
+        "hebrew": "אוטובוס",
+        "english": "bus",
+        "transcription": "o-to-bus"
+    },
+    {
+        "hebrew": "אוכל",
+        "english": "food",
+        "transcription": "o-khel"
+    },
+    {
+        "hebrew": "אולי",
+        "english": "maybe",
+        "transcription": "u-lai"
+    },
+    {
+        "hebrew": "אוניברסיטה",
+        "english": "university",
+        "transcription": "u-ni-ver-si-ta"
+    },
+    {
+        "hebrew": "אופניים",
+        "english": "bicycle",
+        "transcription": "o-fa-na-yim"
+    },
+    {
+        "hebrew": "אורז",
+        "english": "rice",
+        "transcription": "o-rez"
+    },
+    {
+        "hebrew": "אז",
+        "english": "so, then",
+        "transcription": "az"
+    },
+    {
+        "hebrew": "אח",
+        "english": "brother",
+        "transcription": "akh"
+    },
+    {
+        "hebrew": "אחות",
+        "english": "sister",
+        "transcription": "a-khot"
+    },
+    {
+        "hebrew": "אחרון",
+        "english": "last, final",
+        "transcription": "a-kha-ron"
+    },
+    {
+        "hebrew": "איזה",
+        "english": "which",
+        "transcription": "ei-ze"
+    },
+    {
+        "hebrew": "איטי",
+        "english": "slow",
+        "transcription": "i-ti"
+    },
+    {
+        "hebrew": "איך",
+        "english": "how",
+        "transcription": "eikh"
+    },
+    {
+        "hebrew": "אימא",
+        "english": "mom",
+        "transcription": "i-ma"
+    },
+    {
+        "hebrew": "אין",
+        "english": "there isn’t/aren’t",
+        "transcription": "ein"
+    },
+    {
+        "hebrew": "איפה",
+        "english": "where",
+        "transcription": "ei-fo"
+    },
+    {
+        "hebrew": "אישה",
+        "english": "wife",
+        "transcription": "i-sha"
+    },
+    {
+        "hebrew": "אם",
+        "english": "if",
+        "transcription": "im"
+    },
+    {
+        "hebrew": "אנגלית",
+        "english": "English",
+        "transcription": "an-glit"
+    },
+    {
+        "hebrew": "אנחנו",
+        "english": "we",
+        "transcription": "a-nakh-nu"
+    },
+    {
+        "hebrew": "אני",
+        "english": "I",
+        "transcription": "a-ni"
+    },
+    {
+        "hebrew": "אננס",
+        "english": "pineapple",
+        "transcription": "a-na-nas"
+    },
+    {
+        "hebrew": "אסור",
+        "english": "forbidden",
+        "transcription": "a-sur"
+    },
+    {
+        "hebrew": "אף",
+        "english": "nose",
+        "transcription": "af"
+    },
+    {
+        "hebrew": "אפרסק",
+        "english": "peach",
+        "transcription": "a-far-sek"
+    },
+    {
+        "hebrew": "אפשר",
+        "english": "(it is) possible",
+        "transcription": "ef-shar"
+    },
+    {
+        "hebrew": "אצבע",
+        "english": "finger, toe",
+        "transcription": "ets-ba"
+    },
+    {
+        "hebrew": "ארוחת בוקר",
+        "english": "breakfast",
+        "transcription": "a-ru-khat bo-ker"
+    },
+    {
+        "hebrew": "ארוחת ערב",
+        "english": "dinner",
+        "transcription": "a-ru-khat e-rev"
+    },
+    {
+        "hebrew": "ארוחת צהריים",
+        "english": "lunch",
+        "transcription": "a-ru-khat tso-ho-ra-yim"
+    },
+    {
+        "hebrew": "ארנק",
+        "english": "wallet",
+        "transcription": "ar-nak"
+    },
+    {
+        "hebrew": "אשכולית",
+        "english": "grapefruit",
+        "transcription": "esh-ko-lit"
+    },
+    {
+        "hebrew": "את",
+        "english": "you (f.)",
+        "transcription": "at"
+    },
+    {
+        "hebrew": "אתה",
+        "english": "you (m.)",
+        "transcription": "a-ta"
+    },
+    {
+        "hebrew": "אתם",
+        "english": "you (m.p.)",
+        "transcription": "a-tem"
+    },
+    {
+        "hebrew": "אתמול",
+        "english": "yesterday",
+        "transcription": "et-mol"
+    },
+    {
+        "hebrew": "אתן",
+        "english": "you (f.p.)",
+        "transcription": "a-ten"
+    },
+    {
+        "hebrew": "ב...",
+        "english": "in, at",
+        "transcription": "be, ba"
+    },
+    {
+        "hebrew": "בבקשה",
+        "english": "please",
+        "transcription": "be-va-ka-sha"
+    },
+    {
+        "hebrew": "בגדים",
+        "english": "clothes",
+        "transcription": "be-ga-dim"
+    },
+    {
+        "hebrew": "בהצלחה",
+        "english": "good luck",
+        "transcription": "be-hats-la-kha"
+    },
+    {
+        "hebrew": "בוקר",
+        "english": "morning",
+        "transcription": "bo-ker"
+    },
+    {
+        "hebrew": "בחוץ",
+        "english": "outside",
+        "transcription": "ba-khuts"
+    },
+    {
+        "hebrew": "בטטה",
+        "english": "sweet potato",
+        "transcription": "ba-ta-ta"
+    },
+    {
+        "hebrew": "בטן",
+        "english": "stomach/abdomen/tummy",
+        "transcription": "be-ten"
+    },
+    {
+        "hebrew": "ביחד",
+        "english": "together",
+        "transcription": "be-ya-khad"
+    },
+    {
+        "hebrew": "בינוני",
+        "english": "medium",
+        "transcription": "bei-no-ni"
+    },
+    {
+        "hebrew": "ביצה",
+        "english": "egg",
+        "transcription": "bei-tsa"
+    },
+    {
+        "hebrew": "בירה",
+        "english": "beer",
+        "transcription": "bi-ra"
+    },
+    {
+        "hebrew": "בית",
+        "english": "house",
+        "transcription": "ba-yit"
+    },
+    {
+        "hebrew": "בית חולים",
+        "english": "hospital",
+        "transcription": "beit kho-lim"
+    },
+    {
+        "hebrew": "בית כנסת",
+        "english": "synagogue",
+        "transcription": "beit kne-set"
+    },
+    {
+        "hebrew": "בית מרקחת",
+        "english": "pharmacy",
+        "transcription": "beit mir-ka-khat"
+    },
+    {
+        "hebrew": "בית ספר",
+        "english": "school",
+        "transcription": "beit se-fer"
+    },
+    {
+        "hebrew": "בלי",
+        "english": "without",
+        "transcription": "bli"
+    },
+    {
+        "hebrew": "בן",
+        "english": "son",
+        "transcription": "ben"
+    },
+    {
+        "hebrew": "בן דוד",
+        "english": "cousin",
+        "transcription": "ben dod"
+    },
+    {
+        "hebrew": "בנזין",
+        "english": "gasoline",
+        "transcription": "ben-zin"
+    },
+    {
+        "hebrew": "בניין",
+        "english": "building",
+        "transcription": "bin-yan"
+    },
+    {
+        "hebrew": "בננה",
+        "english": "banana",
+        "transcription": "ba-na-na"
+    },
+    {
+        "hebrew": "בנק",
+        "english": "bank",
+        "transcription": "bank"
+    },
+    {
+        "hebrew": "בסדר",
+        "english": "okay",
+        "transcription": "be-se-der"
+    },
+    {
+        "hebrew": "בעל",
+        "english": "husband",
+        "transcription": "ba-al"
+    },
+    {
+        "hebrew": "בפנים",
+        "english": "inside",
+        "transcription": "bif-nim"
+    },
+    {
+        "hebrew": "בצל",
+        "english": "onion",
+        "transcription": "ba-tsal"
+    },
+    {
+        "hebrew": "בקבוק",
+        "english": "bottle",
+        "transcription": "bak-buk"
+    },
+    {
+        "hebrew": "בקר",
+        "english": "beef",
+        "transcription": "ba-kar"
+    },
+    {
+        "hebrew": "בקרוב",
+        "english": "soon",
+        "transcription": "be-ka-rov"
+    },
+    {
+        "hebrew": "בריא",
+        "english": "healthy",
+        "transcription": "ba-ri"
+    },
+    {
+        "hebrew": "בשר",
+        "english": "meat",
+        "transcription": "ba-sar"
+    },
+    {
+        "hebrew": "בת",
+        "english": "daughter",
+        "transcription": "bat"
+    },
+    {
+        "hebrew": "ג'וק",
+        "english": "cockroach",
+        "transcription": "juk"
+    },
+    {
+        "hebrew": "גב",
+        "english": "back",
+        "transcription": "gav"
+    },
+    {
+        "hebrew": "גבוה",
+        "english": "high",
+        "transcription": "ga-vo-ha"
+    },
+    {
+        "hebrew": "גבינה",
+        "english": "cheese",
+        "transcription": "gvi-na"
+    },
+    {
+        "hebrew": "גדול",
+        "english": "big",
+        "transcription": "ga-dol"
+    },
+    {
+        "hebrew": "גובה",
+        "english": "height",
+        "transcription": "go-va"
+    },
+    {
+        "hebrew": "גוף",
+        "english": "body",
+        "transcription": "guf"
+    },
+    {
+        "hebrew": "גזר",
+        "english": "carrot",
+        "transcription": "ge-zer"
+    },
+    {
+        "hebrew": "גלידה",
+        "english": "ice cream",
+        "transcription": "gli-da"
+    },
+    {
+        "hebrew": "גם",
+        "english": "also",
+        "transcription": "gam"
+    },
+    {
+        "hebrew": "גרביים",
+        "english": "socks",
+        "transcription": "gar-ba-yim"
+    },
+    {
+        "hebrew": "גשם",
+        "english": "rain",
+        "transcription": "ge-shem"
+    },
+    {
+        "hebrew": "דבש",
+        "english": "honey",
+        "transcription": "dvash"
+    },
+    {
+        "hebrew": "דג",
+        "english": "fish",
+        "transcription": "dag"
+    },
+    {
+        "hebrew": "דואר",
+        "english": "mail; post office",
+        "transcription": "do-ar"
+    },
+    {
+        "hebrew": "דובדבן",
+        "english": "cherry",
+        "transcription": "duv-de-van"
+    },
+    {
+        "hebrew": "דוד",
+        "english": "uncle",
+        "transcription": "dod"
+    },
+    {
+        "hebrew": "דודה",
+        "english": "aunt",
+        "transcription": "do-da"
+    },
+    {
+        "hebrew": "דירה",
+        "english": "apartment",
+        "transcription": "di-ra"
+    },
+    {
+        "hebrew": "דלת",
+        "english": "door",
+        "transcription": "de-let"
+    },
+    {
+        "hebrew": "דקה",
+        "english": "minute",
+        "transcription": "da-ka"
+    },
+    {
+        "hebrew": "דרום",
+        "english": "South",
+        "transcription": "da-rom"
+    },
+    {
+        "hebrew": "דרכון",
+        "english": "passport",
+        "transcription": "dar-kon"
+    },
+    {
+        "hebrew": "דתי",
+        "english": "religious",
+        "transcription": "da-ti"
+    },
+    {
+        "hebrew": "ה...",
+        "english": "the",
+        "transcription": "ha"
+    },
+    {
+        "hebrew": "הבא",
+        "english": "next",
+        "transcription": "ha-ba"
+    },
+    {
+        "hebrew": "הוא",
+        "english": "he",
+        "transcription": "hu"
+    },
+    {
+        "hebrew": "הודו",
+        "english": "turkey (animal)",
+        "transcription": "ho-du"
+    },
+    {
+        "hebrew": "הווה",
+        "english": "present (tense)",
+        "transcription": "ho-ve"
+    },
+    {
+        "hebrew": "הורים",
+        "english": "parents",
+        "transcription": "ho-rim"
+    },
+    {
+        "hebrew": "היא",
+        "english": "she",
+        "transcription": "hi"
+    },
+    {
+        "hebrew": "היום",
+        "english": "today",
+        "transcription": "ha-yom"
+    },
+    {
+        "hebrew": "הם",
+        "english": "they (m.)",
+        "transcription": "hem"
+    },
+    {
+        "hebrew": "הן",
+        "english": "they (f.)",
+        "transcription": "hen"
+    },
+    {
+        "hebrew": "הפסקה",
+        "english": "break",
+        "transcription": "haf-sa-ka"
+    },
+    {
+        "hebrew": "הרבה",
+        "english": "a lot",
+        "transcription": "har-be"
+    },
+    {
+        "hebrew": "התעמלות",
+        "english": "exercise",
+        "transcription": "hit-am-lut"
+    },
+    {
+        "hebrew": "ו...",
+        "english": "and",
+        "transcription": "ve"
+    },
+    {
+        "hebrew": "זה",
+        "english": "this",
+        "transcription": "ze"
+    },
+    {
+        "hebrew": "זול",
+        "english": "cheap",
+        "transcription": "zol"
+    },
+    {
+        "hebrew": "זית",
+        "english": "olive",
+        "transcription": "za-yit"
+    },
+    {
+        "hebrew": "זמן",
+        "english": "time",
+        "transcription": "zman"
+    },
+    {
+        "hebrew": "זקן",
+        "english": "old (person)",
+        "transcription": "za-ken"
+    },
+    {
+        "hebrew": "חבר",
+        "english": "friend",
+        "transcription": "kha-ver"
+    },
+    {
+        "hebrew": "חברה",
+        "english": "company",
+        "transcription": "khev-ra"
+    },
+    {
+        "hebrew": "חג",
+        "english": "holiday",
+        "transcription": "khag"
+    },
+    {
+        "hebrew": "חגורה",
+        "english": "belt",
+        "transcription": "kha-go-ra"
+    },
+    {
+        "hebrew": "חדר",
+        "english": "room",
+        "transcription": "khe-der"
+    },
+    {
+        "hebrew": "חדש",
+        "english": "new",
+        "transcription": "kha-dash"
+    },
+    {
+        "hebrew": "חדשות",
+        "english": "news",
+        "transcription": "kha-da-shot"
+    },
+    {
+        "hebrew": "חודש",
+        "english": "month",
+        "transcription": "kho-desh"
+    },
+    {
+        "hebrew": "חולה",
+        "english": "sick",
+        "transcription": "kho-le"
+    },
+    {
+        "hebrew": "חולצה",
+        "english": "shirt",
+        "transcription": "khul-tsa"
+    },
+    {
+        "hebrew": "חום",
+        "english": "brown",
+        "transcription": "khum"
+    },
+    {
+        "hebrew": "חומוס",
+        "english": "hummus",
+        "transcription": "khu-mus"
+    },
+    {
+        "hebrew": "חוף",
+        "english": "beach",
+        "transcription": "khof"
+    },
+    {
+        "hebrew": "חופשה",
+        "english": "vacation",
+        "transcription": "khuf-sha"
+    },
+    {
+        "hebrew": "חורף",
+        "english": "Winter",
+        "transcription": "kho-ref"
+    },
+    {
+        "hebrew": "חזה",
+        "english": "chest",
+        "transcription": "kha-ze"
+    },
+    {
+        "hebrew": "חזק",
+        "english": "strong",
+        "transcription": "kha-zak"
+    },
+    {
+        "hebrew": "חלב",
+        "english": "milk",
+        "transcription": "kha-lav"
+    },
+    {
+        "hebrew": "חלה",
+        "english": "challah",
+        "transcription": "kha-la"
+    },
+    {
+        "hebrew": "חלון",
+        "english": "window",
+        "transcription": "kha-lon"
+    },
+    {
+        "hebrew": "חלוני",
+        "english": "secular",
+        "transcription": "khi-lo-ni"
+    },
+    {
+        "hebrew": "חם",
+        "english": "hot",
+        "transcription": "kham"
+    },
+    {
+        "hebrew": "חמאה",
+        "english": "butter",
+        "transcription": "khem-a"
+    },
+    {
+        "hebrew": "חמוצים",
+        "english": "pickles",
+        "transcription": "kha-mu-tsim"
+    },
+    {
+        "hebrew": "חנות",
+        "english": "store",
+        "transcription": "kha-nut"
+    },
+    {
+        "hebrew": "חסה",
+        "english": "lettuce",
+        "transcription": "kha-sa"
+    },
+    {
+        "hebrew": "חצאית",
+        "english": "skirt",
+        "transcription": "kha-tsa-it"
+    },
+    {
+        "hebrew": "חצי",
+        "english": "half (of something)",
+        "transcription": "khe-tsi"
+    },
+    {
+        "hebrew": "חריף",
+        "english": "spicy (hot)",
+        "transcription": "kha-rif"
+    },
+    {
+        "hebrew": "חשבון",
+        "english": "bill, check",
+        "transcription": "khesh-bon"
+    },
+    {
+        "hebrew": "חשוב",
+        "english": "important",
+        "transcription": "kha-shuv"
+    },
+    {
+        "hebrew": "חתול",
+        "english": "cat",
+        "transcription": "kha-tul"
+    },
+    {
+        "hebrew": "טוב",
+        "english": "good",
+        "transcription": "tov"
+    },
+    {
+        "hebrew": "טיול",
+        "english": "trip, hike",
+        "transcription": "ti-yul"
+    },
+    {
+        "hebrew": "טלה",
+        "english": "lamb",
+        "transcription": "ta-le"
+    },
+    {
+        "hebrew": "טלוויזיה",
+        "english": "tv",
+        "transcription": "te-le-viz-ya"
+    },
+    {
+        "hebrew": "טלפון",
+        "english": "telephone",
+        "transcription": "te-le-fon"
+    },
+    {
+        "hebrew": "טעים",
+        "english": "tasty",
+        "transcription": "ta-im"
+    },
+    {
+        "hebrew": "יאללה",
+        "english": "get going",
+        "transcription": "ya-la"
+    },
+    {
+        "hebrew": "יד",
+        "english": "arm",
+        "transcription": "yad"
+    },
+    {
+        "hebrew": "יהודי",
+        "english": "Jewish",
+        "transcription": "ye-hu-di"
+    },
+    {
+        "hebrew": "יוגורט",
+        "english": "yogurt",
+        "transcription": "yo-gurt"
+    },
+    {
+        "hebrew": "יום",
+        "english": "day",
+        "transcription": "yom"
+    },
+    {
+        "hebrew": "יום חמישי",
+        "english": "Thursday",
+        "transcription": "yom kha-mi-shi"
+    },
+    {
+        "hebrew": "יום ראשון",
+        "english": "Sunday",
+        "transcription": "yom ri-shon"
+    },
+    {
+        "hebrew": "יום רביעי",
+        "english": "Wednesday",
+        "transcription": "yom re-vi-i"
+    },
+    {
+        "hebrew": "יום שלישי",
+        "english": "Tuesday",
+        "transcription": "yom shli-shi"
+    },
+    {
+        "hebrew": "יום שני",
+        "english": "Monday",
+        "transcription": "yom she-ni"
+    },
+    {
+        "hebrew": "יום שישי",
+        "english": "Friday",
+        "transcription": "yom shi-shi"
+    },
+    {
+        "hebrew": "יחיד",
+        "english": "singular; single (not married)",
+        "transcription": "ya-khid"
+    },
+    {
+        "hebrew": "יין",
+        "english": "wine",
+        "transcription": "ya-yin"
+    },
+    {
+        "hebrew": "ילד",
+        "english": "boy",
+        "transcription": "ye-led"
+    },
+    {
+        "hebrew": "ילדה",
+        "english": "girl",
+        "transcription": "yal-da"
+    },
+    {
+        "hebrew": "ים",
+        "english": "sea",
+        "transcription": "yam"
+    },
+    {
+        "hebrew": "ימינה",
+        "english": "right (direction)",
+        "transcription": "ya-mi-na"
+    },
+    {
+        "hebrew": "יפה",
+        "english": "beautiful",
+        "transcription": "ya-fe"
+    },
+    {
+        "hebrew": "יציאה",
+        "english": "exit",
+        "transcription": "ye-tsi-a"
+    },
+    {
+        "hebrew": "יקר",
+        "english": "expensive",
+        "transcription": "ya-kar"
+    },
+    {
+        "hebrew": "ירוק",
+        "english": "green",
+        "transcription": "ya-rok"
+    },
+    {
+        "hebrew": "ירח",
+        "english": "moon",
+        "transcription": "ya-re-akh"
+    },
+    {
+        "hebrew": "ירקות",
+        "english": "vegetables",
+        "transcription": "ye-ra-kot"
+    },
+    {
+        "hebrew": "יש",
+        "english": "there is/are",
+        "transcription": "yesh"
+    },
+    {
+        "hebrew": "ישן",
+        "english": "old (thing)",
+        "transcription": "ya-shan"
+    },
+    {
+        "hebrew": "ישר",
+        "english": "straight ahead; honest",
+        "transcription": "ya-shar"
+    },
+    {
+        "hebrew": "ישראל",
+        "english": "Israel",
+        "transcription": "is-ra-el"
+    },
+    {
+        "hebrew": "יתוש",
+        "english": "mosquito",
+        "transcription": "ya-tush"
+    },
+    {
+        "hebrew": "כ...",
+        "english": "as",
+        "transcription": "ke"
+    },
+    {
+        "hebrew": "כאב",
+        "english": "pain/ache",
+        "transcription": "ke-ev"
+    },
+    {
+        "hebrew": "כביש",
+        "english": "road, route",
+        "transcription": "kvish"
+    },
+    {
+        "hebrew": "כדור",
+        "english": "ball",
+        "transcription": "ka-dur"
+    },
+    {
+        "hebrew": "כדורגל",
+        "english": "soccer",
+        "transcription": "ka-du-re-gel"
+    },
+    {
+        "hebrew": "כדורסל",
+        "english": "basketball",
+        "transcription": "ka-dur-sal"
+    },
+    {
+        "hebrew": "כובע",
+        "english": "hat",
+        "transcription": "ko-va"
+    },
+    {
+        "hebrew": "כוכב",
+        "english": "star",
+        "transcription": "ko-khav"
+    },
+    {
+        "hebrew": "כוס",
+        "english": "glass, cup",
+        "transcription": "kos"
+    },
+    {
+        "hebrew": "כועס",
+        "english": "angry",
+        "transcription": "ko-es"
+    },
+    {
+        "hebrew": "כחול",
+        "english": "blue",
+        "transcription": "ka-khol"
+    },
+    {
+        "hebrew": "כיסא",
+        "english": "chair",
+        "transcription": "ki-se"
+    },
+    {
+        "hebrew": "כיתה",
+        "english": "classroom",
+        "transcription": "ki-ta"
+    },
+    {
+        "hebrew": "כל",
+        "english": "all",
+        "transcription": "kol"
+    },
+    {
+        "hebrew": "כלב",
+        "english": "dog",
+        "transcription": "ke-lev"
+    },
+    {
+        "hebrew": "כלום",
+        "english": "nothing",
+        "transcription": "klum"
+    },
+    {
+        "hebrew": "כמה",
+        "english": "how much",
+        "transcription": "ka-ma (or ka-ma)"
+    },
+    {
+        "hebrew": "כן",
+        "english": "yes",
+        "transcription": "ken"
+    },
+    {
+        "hebrew": "כניסה",
+        "english": "entrance",
+        "transcription": "kni-sa"
+    },
+    {
+        "hebrew": "כסף",
+        "english": "money",
+        "transcription": "ke-sef"
+    },
+    {
+        "hebrew": "כספומט",
+        "english": "ATM",
+        "transcription": "kas-po-mat"
+    },
+    {
+        "hebrew": "כף",
+        "english": "spoon",
+        "transcription": "kaf"
+    },
+    {
+        "hebrew": "כף יד",
+        "english": "hand",
+        "transcription": "kaf yad"
+    },
+    {
+        "hebrew": "כף רגל",
+        "english": "foot",
+        "transcription": "kaf re-gel"
+    },
+    {
+        "hebrew": "כרוב",
+        "english": "cabbage",
+        "transcription": "kruv"
+    },
+    {
+        "hebrew": "כרית",
+        "english": "pillow",
+        "transcription": "ka-rit"
+    },
+    {
+        "hebrew": "כשר",
+        "english": "kosher",
+        "transcription": "ka-sher"
+    },
+    {
+        "hebrew": "כתובת",
+        "english": "address",
+        "transcription": "ktov-et"
+    },
+    {
+        "hebrew": "כתום",
+        "english": "orange (color)",
+        "transcription": "ka-tom"
+    },
+    {
+        "hebrew": "ל...",
+        "english": "to, for",
+        "transcription": "le"
+    },
+    {
+        "hebrew": "לא",
+        "english": "no",
+        "transcription": "lo"
+    },
+    {
+        "hebrew": "לאט",
+        "english": "slowly",
+        "transcription": "le-at"
+    },
+    {
+        "hebrew": "לב",
+        "english": "heart",
+        "transcription": "lev"
+    },
+    {
+        "hebrew": "לבד",
+        "english": "alone",
+        "transcription": "le-vad"
+    },
+    {
+        "hebrew": "לבן",
+        "english": "white",
+        "transcription": "la-van"
+    },
+    {
+        "hebrew": "לבריאות",
+        "english": "bless you (after s.o. sneezes)",
+        "transcription": "liv-ri-ut"
+    },
+    {
+        "hebrew": "להתראות",
+        "english": "see you later",
+        "transcription": "le-hit-ra-ot"
+    },
+    {
+        "hebrew": "לחיים!",
+        "english": "Cheers!",
+        "transcription": "le-kha-yim"
+    },
+    {
+        "hebrew": "לחם",
+        "english": "bread",
+        "transcription": "le-khem"
+    },
+    {
+        "hebrew": "לטאה",
+        "english": "lizard",
+        "transcription": "le-ta-a"
+    },
+    {
+        "hebrew": "לילה",
+        "english": "night",
+        "transcription": "lai-la"
+    },
+    {
+        "hebrew": "לימון",
+        "english": "lemon",
+        "transcription": "li-mon"
+    },
+    {
+        "hebrew": "למה",
+        "english": "why",
+        "transcription": "la-ma"
+    },
+    {
+        "hebrew": "למטה",
+        "english": "down",
+        "transcription": "le-ma-ta"
+    },
+    {
+        "hebrew": "למעלה",
+        "english": "up",
+        "transcription": "le-ma-la"
+    },
+    {
+        "hebrew": "לפני",
+        "english": "before",
+        "transcription": "lif-nei"
+    },
+    {
+        "hebrew": "מ...",
+        "english": "from",
+        "transcription": "me"
+    },
+    {
+        "hebrew": "מאוד",
+        "english": "very",
+        "transcription": "me-od"
+    },
+    {
+        "hebrew": "מאוחר",
+        "english": "late",
+        "transcription": "me-u-khar"
+    },
+    {
+        "hebrew": "מאפה",
+        "english": "pastry",
+        "transcription": "ma-a-fe"
+    },
+    {
+        "hebrew": "מאפייה",
+        "english": "bakery",
+        "transcription": "ma-a-fi-ya"
+    },
+    {
+        "hebrew": "מבחן",
+        "english": "test/exam",
+        "transcription": "miv-khan"
+    },
+    {
+        "hebrew": "מגבת",
+        "english": "towel",
+        "transcription": "ma-ge-vet"
+    },
+    {
+        "hebrew": "מדבר",
+        "english": "desert",
+        "transcription": "mid-bar"
+    },
+    {
+        "hebrew": "מדינה",
+        "english": "country",
+        "transcription": "me-di-na"
+    },
+    {
+        "hebrew": "מדען",
+        "english": "scientist",
+        "transcription": "mad-an"
+    },
+    {
+        "hebrew": "מדפסת",
+        "english": "printer",
+        "transcription": "mad-pe-set"
+    },
+    {
+        "hebrew": "מדרכה",
+        "english": "sidewalk",
+        "transcription": "mid-ra-kha"
+    },
+    {
+        "hebrew": "מה",
+        "english": "what",
+        "transcription": "ma"
+    },
+    {
+        "hebrew": "מהיר",
+        "english": "fast",
+        "transcription": "ma-hir"
+    },
+    {
+        "hebrew": "מהנדס",
+        "english": "engineer",
+        "transcription": "me-han-des"
+    },
+    {
+        "hebrew": "מהר",
+        "english": "quickly",
+        "transcription": "ma-her"
+    },
+    {
+        "hebrew": "מוזיאון",
+        "english": "museum",
+        "transcription": "mu-zei-on"
+    },
+    {
+        "hebrew": "מוזיקה",
+        "english": "music",
+        "transcription": "mu-zi-ka"
+    },
+    {
+        "hebrew": "מוח",
+        "english": "brain",
+        "transcription": "mo-akh"
+    },
+    {
+        "hebrew": "מוכן",
+        "english": "ready",
+        "transcription": "mu-khan"
+    },
+    {
+        "hebrew": "מונית",
+        "english": "taxi",
+        "transcription": "mo-nit"
+    },
+    {
+        "hebrew": "מוקדם",
+        "english": "early",
+        "transcription": "muk-dam"
+    },
+    {
+        "hebrew": "מורה",
+        "english": "teacher",
+        "transcription": "mo-re, mo-ra"
+    },
+    {
+        "hebrew": "מזג אוויר",
+        "english": "weather",
+        "transcription": "me-zeg a-vir"
+    },
+    {
+        "hebrew": "מזגן",
+        "english": "air conditioner",
+        "transcription": "maz-gan"
+    },
+    {
+        "hebrew": "מזלג",
+        "english": "fork",
+        "transcription": "maz-leg"
+    },
+    {
+        "hebrew": "מזרח",
+        "english": "East",
+        "transcription": "miz-rakh"
+    },
+    {
+        "hebrew": "מחברת",
+        "english": "notebook",
+        "transcription": "makh-be-ret"
+    },
+    {
+        "hebrew": "מחר",
+        "english": "tomorrow",
+        "transcription": "ma-khar"
+    },
+    {
+        "hebrew": "מחשב",
+        "english": "computer",
+        "transcription": "makh-shev"
+    },
+    {
+        "hebrew": "מטבח",
+        "english": "kitchen",
+        "transcription": "mit-bakh"
+    },
+    {
+        "hebrew": "מטוגן",
+        "english": "fried",
+        "transcription": "me-tu-gan"
+    },
+    {
+        "hebrew": "מטוס",
+        "english": "airplane",
+        "transcription": "ma-tos"
+    },
+    {
+        "hebrew": "מטר",
+        "english": "meter",
+        "transcription": "me-ter"
+    },
+    {
+        "hebrew": "מי",
+        "english": "who",
+        "transcription": "mi"
+    },
+    {
+        "hebrew": "מיטה",
+        "english": "bed",
+        "transcription": "mi-ta"
+    },
+    {
+        "hebrew": "מילון",
+        "english": "dictionary",
+        "transcription": "mi-lon"
+    },
+    {
+        "hebrew": "מים",
+        "english": "water",
+        "transcription": "ma-yim"
+    },
+    {
+        "hebrew": "מיץ",
+        "english": "juice",
+        "transcription": "mits"
+    },
+    {
+        "hebrew": "מיקרוגל",
+        "english": "microwave",
+        "transcription": "mik-ro-gal"
+    },
+    {
+        "hebrew": "מישהו",
+        "english": "someone",
+        "transcription": "mi-she-hu"
+    },
+    {
+        "hebrew": "מכונית",
+        "english": "car",
+        "transcription": "me-kho-nit"
+    },
+    {
+        "hebrew": "מכוער",
+        "english": "ugly",
+        "transcription": "me-kho-ar"
+    },
+    {
+        "hebrew": "מכנסים",
+        "english": "pants",
+        "transcription": "mikh-na-sa-yim"
+    },
+    {
+        "hebrew": "מכנסים קצרים",
+        "english": "shorts",
+        "transcription": "mikh-na-sa-yim k-tsar-im"
+    },
+    {
+        "hebrew": "מלא",
+        "english": "full",
+        "transcription": "ma-le"
+    },
+    {
+        "hebrew": "מלהיב",
+        "english": "exciting",
+        "transcription": "mal-hiv"
+    },
+    {
+        "hebrew": "מלון",
+        "english": "hotel",
+        "transcription": "ma-lon"
+    },
+    {
+        "hebrew": "מלח",
+        "english": "salt",
+        "transcription": "me-lakh"
+    },
+    {
+        "hebrew": "מלפפון",
+        "english": "cucumber",
+        "transcription": "me-la-fe-fon"
+    },
+    {
+        "hebrew": "ממשלה",
+        "english": "government",
+        "transcription": "mem-sha-la"
+    },
+    {
+        "hebrew": "מנגו",
+        "english": "mango",
+        "transcription": "man-go"
+    },
+    {
+        "hebrew": "מנה",
+        "english": "serving/portion",
+        "transcription": "ma-na"
+    },
+    {
+        "hebrew": "מנהל",
+        "english": "manager",
+        "transcription": "me-na-hel"
+    },
+    {
+        "hebrew": "מנהרה",
+        "english": "tunnel",
+        "transcription": "min-ha-ra"
+    },
+    {
+        "hebrew": "מסעדה",
+        "english": "restaurant",
+        "transcription": "mis-a-da"
+    },
+    {
+        "hebrew": "מספר",
+        "english": "number",
+        "transcription": "mis-par"
+    },
+    {
+        "hebrew": "מסריח",
+        "english": "smelly",
+        "transcription": "mas-ri-akh"
+    },
+    {
+        "hebrew": "מעניין",
+        "english": "interesting",
+        "transcription": "me-an-yen"
+    },
+    {
+        "hebrew": "מערב",
+        "english": "West",
+        "transcription": "ma-a-rav"
+    },
+    {
+        "hebrew": "מפית",
+        "english": "napkin",
+        "transcription": "map-it"
+    },
+    {
+        "hebrew": "מפתח",
+        "english": "key",
+        "transcription": "maf-te-akh"
+    },
+    {
+        "hebrew": "מצוין",
+        "english": "excellent",
+        "transcription": "me-tsu-yan"
+    },
+    {
+        "hebrew": "מצחיק",
+        "english": "funny",
+        "transcription": "mats-khik"
+    },
+    {
+        "hebrew": "מצלמה",
+        "english": "camera",
+        "transcription": "mats-le-ma"
+    },
+    {
+        "hebrew": "מקום",
+        "english": "place",
+        "transcription": "ma-kom"
+    },
+    {
+        "hebrew": "מקרר",
+        "english": "refrigerator",
+        "transcription": "me-ka-rer"
+    },
+    {
+        "hebrew": "מרק",
+        "english": "soup",
+        "transcription": "ma-rak"
+    },
+    {
+        "hebrew": "משהו",
+        "english": "something",
+        "transcription": "ma-she-hu"
+    },
+    {
+        "hebrew": "משחק",
+        "english": "game",
+        "transcription": "mis-khak"
+    },
+    {
+        "hebrew": "משטרה",
+        "english": "police",
+        "transcription": "mish-ta-ra"
+    },
+    {
+        "hebrew": "משעמם",
+        "english": "boring",
+        "transcription": "me-sha-a-mem"
+    },
+    {
+        "hebrew": "משפחה",
+        "english": "family",
+        "transcription": "mish-pa-kha"
+    },
+    {
+        "hebrew": "משקל",
+        "english": "weight",
+        "transcription": "mish-kal"
+    },
+    {
+        "hebrew": "משרד",
+        "english": "office",
+        "transcription": "mis-rad"
+    },
+    {
+        "hebrew": "מתוק",
+        "english": "sweet",
+        "transcription": "ma-tok"
+    },
+    {
+        "hebrew": "מתי",
+        "english": "when",
+        "transcription": "ma-tai"
+    },
+    {
+        "hebrew": "נבון",
+        "english": "intelligent",
+        "transcription": "na-von"
+    },
+    {
+        "hebrew": "נהג",
+        "english": "driver",
+        "transcription": "na-hag"
+    },
+    {
+        "hebrew": "נהר",
+        "english": "river",
+        "transcription": "na-har"
+    },
+    {
+        "hebrew": "נייר",
+        "english": "paper",
+        "transcription": "ni-yar"
+    },
+    {
+        "hebrew": "נכון",
+        "english": "correct",
+        "transcription": "na-khon"
+    },
+    {
+        "hebrew": "נמוך",
+        "english": "low",
+        "transcription": "na-mukh"
+    },
+    {
+        "hebrew": "נמל תעופה",
+        "english": "airport",
+        "transcription": "na-mal te-u-fa"
+    },
+    {
+        "hebrew": "נמלה",
+        "english": "ant",
+        "transcription": "ne-ma-la"
+    },
+    {
+        "hebrew": "נעליים",
+        "english": "shoes",
+        "transcription": "na-a-la-yim"
+    },
+    {
+        "hebrew": "נקטרינה",
+        "english": "nectarine",
+        "transcription": "nek-ta-ri-na"
+    },
+    {
+        "hebrew": "נקי",
+        "english": "clean",
+        "transcription": "na-ki"
+    },
+    {
+        "hebrew": "נשוי",
+        "english": "married",
+        "transcription": "na-su-i"
+    },
+    {
+        "hebrew": "נשק",
+        "english": "weapon",
+        "transcription": "ne-shek"
+    },
+    {
+        "hebrew": "סבא",
+        "english": "grandfather",
+        "transcription": "sa-ba"
+    },
+    {
+        "hebrew": "סבון",
+        "english": "soap",
+        "transcription": "sa-bon"
+    },
+    {
+        "hebrew": "סבתא",
+        "english": "grandmother",
+        "transcription": "sav-ta"
+    },
+    {
+        "hebrew": "סגול",
+        "english": "purple",
+        "transcription": "sa-gol"
+    },
+    {
+        "hebrew": "סגור",
+        "english": "closed",
+        "transcription": "sa-gur"
+    },
+    {
+        "hebrew": "סדין",
+        "english": "sheet",
+        "transcription": "sa-din"
+    },
+    {
+        "hebrew": "סוכר",
+        "english": "sugar",
+        "transcription": "su-kar"
+    },
+    {
+        "hebrew": "סוף",
+        "english": "end",
+        "transcription": "sof"
+    },
+    {
+        "hebrew": "סוף שבוע",
+        "english": "weekend",
+        "transcription": "sof sha-vu-a"
+    },
+    {
+        "hebrew": "סופרמרקט",
+        "english": "supermarket",
+        "transcription": "su-per-mar-ket"
+    },
+    {
+        "hebrew": "סטודנט",
+        "english": "student",
+        "transcription": "stu-dent"
+    },
+    {
+        "hebrew": "סיפור",
+        "english": "story",
+        "transcription": "si-pur"
+    },
+    {
+        "hebrew": "סכין",
+        "english": "knife",
+        "transcription": "sa-kin"
+    },
+    {
+        "hebrew": "סלט",
+        "english": "salad",
+        "transcription": "sa-lat"
+    },
+    {
+        "hebrew": "סליחה",
+        "english": "excuse me",
+        "transcription": "sli-kha"
+    },
+    {
+        "hebrew": "סלק",
+        "english": "beet(root)",
+        "transcription": "se-lek"
+    },
+    {
+        "hebrew": "סנדלים",
+        "english": "sandals",
+        "transcription": "san-da-lim"
+    },
+    {
+        "hebrew": "ספה",
+        "english": "sofa",
+        "transcription": "sa-pa"
+    },
+    {
+        "hebrew": "ספורט",
+        "english": "sport",
+        "transcription": "sport"
+    },
+    {
+        "hebrew": "ספר",
+        "english": "book",
+        "transcription": "se-fer"
+    },
+    {
+        "hebrew": "ספרייה",
+        "english": "library",
+        "transcription": "sif-ri-ya"
+    },
+    {
+        "hebrew": "סרט",
+        "english": "movie",
+        "transcription": "se-ret"
+    },
+    {
+        "hebrew": "סתיו",
+        "english": "Fall",
+        "transcription": "stav"
+    },
+    {
+        "hebrew": "עבר",
+        "english": "past",
+        "transcription": "a-var"
+    },
+    {
+        "hebrew": "עברית",
+        "english": "Hebrew",
+        "transcription": "iv-rit"
+    },
+    {
+        "hebrew": "עגבניה",
+        "english": "tomato",
+        "transcription": "ag-va-ni-ya"
+    },
+    {
+        "hebrew": "עובש",
+        "english": "mold",
+        "transcription": "o-vesh"
+    },
+    {
+        "hebrew": "עוגה",
+        "english": "cake",
+        "transcription": "u-ga"
+    },
+    {
+        "hebrew": "עולם",
+        "english": "world",
+        "transcription": "o-lam"
+    },
+    {
+        "hebrew": "עוף",
+        "english": "chicken",
+        "transcription": "of"
+    },
+    {
+        "hebrew": "עט",
+        "english": "pen",
+        "transcription": "et"
+    },
+    {
+        "hebrew": "עייף",
+        "english": "tired",
+        "transcription": "a-yef"
+    },
+    {
+        "hebrew": "עין",
+        "english": "eye",
+        "transcription": "a-yin"
+    },
+    {
+        "hebrew": "עיר",
+        "english": "city",
+        "transcription": "ir"
+    },
+    {
+        "hebrew": "עיתון",
+        "english": "newspaper",
+        "transcription": "i-ton"
+    },
+    {
+        "hebrew": "עכביש",
+        "english": "spider",
+        "transcription": "a-ka-vish"
+    },
+    {
+        "hebrew": "עכשיו",
+        "english": "now",
+        "transcription": "akh-shav"
+    },
+    {
+        "hebrew": "על",
+        "english": "on, about",
+        "transcription": "al"
+    },
+    {
+        "hebrew": "ענבים",
+        "english": "grapes",
+        "transcription": "a-na-vim"
+    },
+    {
+        "hebrew": "עני",
+        "english": "poor",
+        "transcription": "a-ni"
+    },
+    {
+        "hebrew": "ענן",
+        "english": "cloud",
+        "transcription": "a-nan"
+    },
+    {
+        "hebrew": "עפרון",
+        "english": "pencil",
+        "transcription": "i-pa-ron"
+    },
+    {
+        "hebrew": "עץ",
+        "english": "tree, wood",
+        "transcription": "ets"
+    },
+    {
+        "hebrew": "עצור",
+        "english": "stop",
+        "transcription": "a-tsor"
+    },
+    {
+        "hebrew": "עצלן",
+        "english": "lazy",
+        "transcription": "ats-lan"
+    },
+    {
+        "hebrew": "עצם",
+        "english": "bone",
+        "transcription": "e-tsem"
+    },
+    {
+        "hebrew": "ערב",
+        "english": "evening",
+        "transcription": "e-rev"
+    },
+    {
+        "hebrew": "ערבית",
+        "english": "Arabic",
+        "transcription": "a-ra-vit"
+    },
+    {
+        "hebrew": "ערוץ",
+        "english": "channel (tv)",
+        "transcription": "a-ruts"
+    },
+    {
+        "hebrew": "עשיר",
+        "english": "rich",
+        "transcription": "a-shir"
+    },
+    {
+        "hebrew": "עתיד",
+        "english": "future",
+        "transcription": "a-tid"
+    },
+    {
+        "hebrew": "פה",
+        "english": "mouth",
+        "transcription": "pe"
+    },
+    {
+        "hebrew": "פה",
+        "english": "here",
+        "transcription": "po"
+    },
+    {
+        "hebrew": "פח אשפה",
+        "english": "garbage can",
+        "transcription": "pakh ash-pa"
+    },
+    {
+        "hebrew": "פטרוזיליה",
+        "english": "parsley",
+        "transcription": "pet-ro-zil-ya"
+    },
+    {
+        "hebrew": "פטריות",
+        "english": "mushrooms",
+        "transcription": "pit-ri-yot"
+    },
+    {
+        "hebrew": "פיקח",
+        "english": "smart",
+        "transcription": "pi-ke-akh"
+    },
+    {
+        "hebrew": "פיתה",
+        "english": "pita",
+        "transcription": "pi-ta"
+    },
+    {
+        "hebrew": "פלאפל",
+        "english": "falafel",
+        "transcription": "fa-la-fel"
+    },
+    {
+        "hebrew": "פלפל",
+        "english": "pepper",
+        "transcription": "pil-pel"
+    },
+    {
+        "hebrew": "פנים",
+        "english": "face",
+        "transcription": "pa-nim"
+    },
+    {
+        "hebrew": "פסטה",
+        "english": "pasta",
+        "transcription": "pas-ta"
+    },
+    {
+        "hebrew": "פסנתר",
+        "english": "piano",
+        "transcription": "psan-ter"
+    },
+    {
+        "hebrew": "פעם",
+        "english": "once",
+        "transcription": "pa-am"
+    },
+    {
+        "hebrew": "פעמים",
+        "english": "twice",
+        "transcription": "pa-a-ma-yim"
+    },
+    {
+        "hebrew": "פקולטה",
+        "english": "faculty",
+        "transcription": "fa-kul-ta"
+    },
+    {
+        "hebrew": "פרי",
+        "english": "fruit",
+        "transcription": "pri"
+    },
+    {
+        "hebrew": "פרק",
+        "english": "chapter",
+        "transcription": "pe-rek"
+    },
+    {
+        "hebrew": "פשוט",
+        "english": "simple",
+        "transcription": "pa-shut"
+    },
+    {
+        "hebrew": "פתוח",
+        "english": "open",
+        "transcription": "pa-tu-akh"
+    },
+    {
+        "hebrew": "צבע",
+        "english": "color",
+        "transcription": "tse-va"
+    },
+    {
+        "hebrew": "צה\"ל",
+        "english": "I.D.F. (Israel Defense Forces)",
+        "transcription": "tsa-hal"
+    },
+    {
+        "hebrew": "צהוב",
+        "english": "yellow",
+        "transcription": "tsa-hov"
+    },
+    {
+        "hebrew": "צהריים",
+        "english": "noon",
+        "transcription": "tso-ho-ra-yim"
+    },
+    {
+        "hebrew": "ציפור",
+        "english": "bird",
+        "transcription": "tsi-por"
+    },
+    {
+        "hebrew": "צלחת",
+        "english": "plate",
+        "transcription": "tsa-la-khat"
+    },
+    {
+        "hebrew": "צפון",
+        "english": "North",
+        "transcription": "tsa-fon"
+    },
+    {
+        "hebrew": "קבוצה",
+        "english": "team",
+        "transcription": "kvu-tsa"
+    },
+    {
+        "hebrew": "קבלה",
+        "english": "receipt",
+        "transcription": "ka-ba-la"
+    },
+    {
+        "hebrew": "קטן",
+        "english": "small",
+        "transcription": "ka-tan"
+    },
+    {
+        "hebrew": "קינואה",
+        "english": "quinoa",
+        "transcription": "ki-no-a"
+    },
+    {
+        "hebrew": "קיץ",
+        "english": "Summer",
+        "transcription": "ka-yits"
+    },
+    {
+        "hebrew": "קיר",
+        "english": "wall",
+        "transcription": "kir"
+    },
+    {
+        "hebrew": "קישוא",
+        "english": "squash, zucchini",
+        "transcription": "ki-shu"
+    },
+    {
+        "hebrew": "קל",
+        "english": "easy",
+        "transcription": "kal"
+    },
+    {
+        "hebrew": "קניון",
+        "english": "mall",
+        "transcription": "kan-yon"
+    },
+    {
+        "hebrew": "קערה",
+        "english": "bowl",
+        "transcription": "ke-a-ra"
+    },
+    {
+        "hebrew": "קפה",
+        "english": "coffee",
+        "transcription": "ka-fe"
+    },
+    {
+        "hebrew": "קצת",
+        "english": "a little",
+        "transcription": "k-tsat"
+    },
+    {
+        "hebrew": "קר",
+        "english": "cold",
+        "transcription": "kar"
+    },
+    {
+        "hebrew": "קשה",
+        "english": "difficult",
+        "transcription": "ka-she"
+    },
+    {
+        "hebrew": "ראש",
+        "english": "head",
+        "transcription": "rosh"
+    },
+    {
+        "hebrew": "ראשון",
+        "english": "first",
+        "transcription": "ri-shon"
+    },
+    {
+        "hebrew": "רב",
+        "english": "rabbi",
+        "transcription": "rav"
+    },
+    {
+        "hebrew": "רבע",
+        "english": "quarter (of something)",
+        "transcription": "re-va"
+    },
+    {
+        "hebrew": "רגל",
+        "english": "leg",
+        "transcription": "re-gel"
+    },
+    {
+        "hebrew": "רגע",
+        "english": "moment",
+        "transcription": "re-ga"
+    },
+    {
+        "hebrew": "רוטב",
+        "english": "sauce",
+        "transcription": "ro-tev"
+    },
+    {
+        "hebrew": "רועש",
+        "english": "noisy",
+        "transcription": "ro-esh"
+    },
+    {
+        "hebrew": "רופא",
+        "english": "doctor/physician",
+        "transcription": "ro-fe"
+    },
+    {
+        "hebrew": "רזה",
+        "english": "thin",
+        "transcription": "ra-ze"
+    },
+    {
+        "hebrew": "רחוב",
+        "english": "street",
+        "transcription": "re-khov"
+    },
+    {
+        "hebrew": "רטוב",
+        "english": "wet",
+        "transcription": "ra-tov"
+    },
+    {
+        "hebrew": "רימון",
+        "english": "pomegranate",
+        "transcription": "ri-mon"
+    },
+    {
+        "hebrew": "רך",
+        "english": "soft",
+        "transcription": "rakh"
+    },
+    {
+        "hebrew": "רכבת",
+        "english": "train",
+        "transcription": "ra-ke-vet"
+    },
+    {
+        "hebrew": "רע",
+        "english": "bad",
+        "transcription": "ra"
+    },
+    {
+        "hebrew": "רעב",
+        "english": "hungry",
+        "transcription": "ra-ev"
+    },
+    {
+        "hebrew": "רעיון",
+        "english": "idea",
+        "transcription": "ra-a-yon"
+    },
+    {
+        "hebrew": "רצפה",
+        "english": "floor",
+        "transcription": "rits-pa"
+    },
+    {
+        "hebrew": "רק",
+        "english": "only",
+        "transcription": "rak"
+    },
+    {
+        "hebrew": "שאלה",
+        "english": "question",
+        "transcription": "she-e-la"
+    },
+    {
+        "hebrew": "שבוע",
+        "english": "week",
+        "transcription": "sha-vu-a"
+    },
+    {
+        "hebrew": "שבת",
+        "english": "Saturday",
+        "transcription": "sha-bat"
+    },
+    {
+        "hebrew": "שוב",
+        "english": "again",
+        "transcription": "shuv"
+    },
+    {
+        "hebrew": "שווארמה",
+        "english": "shawarma",
+        "transcription": "sha-war-ma"
+    },
+    {
+        "hebrew": "שולחן",
+        "english": "table",
+        "transcription": "shul-khan"
+    },
+    {
+        "hebrew": "שום",
+        "english": "garlic",
+        "transcription": "shum"
+    },
+    {
+        "hebrew": "שוקו חם",
+        "english": "hot chocolate",
+        "transcription": "sho-ko kham"
+    },
+    {
+        "hebrew": "שוקולד",
+        "english": "chocolate",
+        "transcription": "sho-ko-lad"
+    },
+    {
+        "hebrew": "שזיף",
+        "english": "plum",
+        "transcription": "she-zif"
+    },
+    {
+        "hebrew": "שחור",
+        "english": "black",
+        "transcription": "sha-khor"
+    },
+    {
+        "hebrew": "שחייה",
+        "english": "swimming",
+        "transcription": "skhi-ya"
+    },
+    {
+        "hebrew": "שטיח",
+        "english": "rug",
+        "transcription": "sha-ti-akh"
+    },
+    {
+        "hebrew": "שיניים",
+        "english": "teeth",
+        "transcription": "shi-na-yim"
+    },
+    {
+        "hebrew": "שיעור",
+        "english": "lesson",
+        "transcription": "shi-ur"
+    },
+    {
+        "hebrew": "שירות",
+        "english": "shuttle taxi",
+        "transcription": "shei-rut"
+    },
+    {
+        "hebrew": "שכונה",
+        "english": "neighborhood",
+        "transcription": "shkhu-na"
+    },
+    {
+        "hebrew": "של",
+        "english": "of",
+        "transcription": "shel"
+    },
+    {
+        "hebrew": "שלום",
+        "english": "hello",
+        "transcription": "sha-lom"
+    },
+    {
+        "hebrew": "שליש",
+        "english": "third (of something)",
+        "transcription": "shlish"
+    },
+    {
+        "hebrew": "שלם",
+        "english": "whole",
+        "transcription": "sha-lem"
+    },
+    {
+        "hebrew": "שם",
+        "english": "there",
+        "transcription": "sham"
+    },
+    {
+        "hebrew": "שם",
+        "english": "name",
+        "transcription": "shem"
+    },
+    {
+        "hebrew": "שם משפחה",
+        "english": "surname",
+        "transcription": "shem mish-pa-kha"
+    },
+    {
+        "hebrew": "שם פרטי",
+        "english": "first name",
+        "transcription": "shem pra-ti"
+    },
+    {
+        "hebrew": "שמאלה",
+        "english": "left (direction)",
+        "transcription": "smo-la"
+    },
+    {
+        "hebrew": "שמיים",
+        "english": "sky",
+        "transcription": "sha-ma-yim"
+    },
+    {
+        "hebrew": "שמן",
+        "english": "oil",
+        "transcription": "she-men"
+    },
+    {
+        "hebrew": "שמן",
+        "english": "fat",
+        "transcription": "sha-men"
+    },
+    {
+        "hebrew": "שמש",
+        "english": "sun",
+        "transcription": "she-mesh"
+    },
+    {
+        "hebrew": "שנה",
+        "english": "year",
+        "transcription": "sha-na"
+    },
+    {
+        "hebrew": "שניה",
+        "english": "second (time)",
+        "transcription": "shni-ya"
+    },
+    {
+        "hebrew": "שניצל",
+        "english": "schnitzel",
+        "transcription": "shni-tsel"
+    },
+    {
+        "hebrew": "שעה",
+        "english": "hour",
+        "transcription": "sha-a"
+    },
+    {
+        "hebrew": "שעון",
+        "english": "clock",
+        "transcription": "sha-on"
+    },
+    {
+        "hebrew": "שער",
+        "english": "goal (soccer)",
+        "transcription": "sha-ar"
+    },
+    {
+        "hebrew": "שער",
+        "english": "hair",
+        "transcription": "se-ar"
+    },
+    {
+        "hebrew": "שפה",
+        "english": "language",
+        "transcription": "sa-fa"
+    },
+    {
+        "hebrew": "שקד",
+        "english": "almond",
+        "transcription": "sha-ked"
+    },
+    {
+        "hebrew": "שקט",
+        "english": "quiet",
+        "transcription": "she-ket"
+    },
+    {
+        "hebrew": "שקל",
+        "english": "shekel",
+        "transcription": "she-kel"
+    },
+    {
+        "hebrew": "שקשוקה",
+        "english": "shakshuka",
+        "transcription": "shak-shu-ka"
+    },
+    {
+        "hebrew": "שרותים",
+        "english": "toilet (bathroom)",
+        "transcription": "she-ru-tim"
+    },
+    {
+        "hebrew": "שתייה",
+        "english": "(a) drink",
+        "transcription": "shti-ya"
+    },
+    {
+        "hebrew": "תאנה",
+        "english": "fig",
+        "transcription": "te-e-na"
+    },
+    {
+        "hebrew": "תאריך לידה",
+        "english": "date of birth",
+        "transcription": "ta-a-rikh lei-da"
+    },
+    {
+        "hebrew": "תה",
+        "english": "tea",
+        "transcription": "te"
+    },
+    {
+        "hebrew": "תודה",
+        "english": "thank you",
+        "transcription": "to-da"
+    },
+    {
+        "hebrew": "תות",
+        "english": "strawberry",
+        "transcription": "tut"
+    },
+    {
+        "hebrew": "תחביב",
+        "english": "hobby",
+        "transcription": "takh-biv"
+    },
+    {
+        "hebrew": "תחנה",
+        "english": "station, stop",
+        "transcription": "ta-kha-na"
+    },
+    {
+        "hebrew": "תינוק",
+        "english": "baby",
+        "transcription": "ti-nok"
+    },
+    {
+        "hebrew": "תיק",
+        "english": "bag",
+        "transcription": "tik"
+    },
+    {
+        "hebrew": "תמונה",
+        "english": "picture",
+        "transcription": "tmu-na"
+    },
+    {
+        "hebrew": "תמר",
+        "english": "date (food)",
+        "transcription": "ta-mar"
+    },
+    {
+        "hebrew": "תנועה",
+        "english": "traffic",
+        "transcription": "tnu-a"
+    },
+    {
+        "hebrew": "תנור",
+        "english": "oven",
+        "transcription": "ta-nur"
+    },
+    {
+        "hebrew": "תפוז",
+        "english": "orange (food)",
+        "transcription": "ta-puz"
+    },
+    {
+        "hebrew": "תפוח",
+        "english": "apple",
+        "transcription": "ta-pu-akh"
+    },
+    {
+        "hebrew": "תפוח אדמה",
+        "english": "potato",
+        "transcription": "ta-pu-akh a-da-ma"
+    },
+    {
+        "hebrew": "תקרה",
+        "english": "ceiling",
+        "transcription": "tik-ra"
+    },
+    {
+        "hebrew": "תרד",
+        "english": "spinach",
+        "transcription": "te-red"
+    },
+    {
+        "hebrew": "תשובה",
+        "english": "answer",
+        "transcription": "tshu-va"
+    }
+]
