@@ -1,0 +1,487 @@
+[
+    {
+        "hebrew": "אוכל",
+        "english": "food",
+        "transcription": "o-khel"
+    },
+    {
+        "hebrew": "אבטיח",
+        "english": "watermelon",
+        "transcription": "a-va-ti-akh"
+    },
+    {
+        "hebrew": "אגוז מלך",
+        "english": "walnut",
+        "transcription": "e-goz me-lekh"
+    },
+    {
+        "hebrew": "אגס",
+        "english": "pear",
+        "transcription": "a-gas"
+    },
+    {
+        "hebrew": "אורז",
+        "english": "rice",
+        "transcription": "o-rez"
+    },
+    {
+        "hebrew": "אננס",
+        "english": "pineapple",
+        "transcription": "a-na-nas"
+    },
+    {
+        "hebrew": "ארוחת בוקר",
+        "english": "breakfast",
+        "transcription": "a-ru-khat bo-ker"
+    },
+    {
+        "hebrew": "ארוחת ערב",
+        "english": "dinner",
+        "transcription": "a-ru-khat e-rev"
+    },
+    {
+        "hebrew": "ארוחת צהריים",
+        "english": "lunch",
+        "transcription": "a-ru-khat tso-ho-ra-yim"
+    },
+    {
+        "hebrew": "אשכולית",
+        "english": "grapefruit",
+        "transcription": "esh-ko-lit"
+    },
+    {
+        "hebrew": "ביצה",
+        "english": "egg",
+        "transcription": "bei-tsa"
+    },
+    {
+        "hebrew": "בירה",
+        "english": "beer",
+        "transcription": "bi-ra"
+    },
+    {
+        "hebrew": "בננה",
+        "english": "banana",
+        "transcription": "ba-na-na"
+    },
+    {
+        "hebrew": "בצל",
+        "english": "onion",
+        "transcription": "ba-tsal"
+    },
+    {
+        "hebrew": "בקבוק",
+        "english": "bottle",
+        "transcription": "bak-buk"
+    },
+    {
+        "hebrew": "בקר",
+        "english": "beef",
+        "transcription": "ba-kar"
+    },
+    {
+        "hebrew": "בשר",
+        "english": "meat",
+        "transcription": "ba-sar"
+    },
+    {
+        "hebrew": "גבינה",
+        "english": "cheese",
+        "transcription": "gvi-na"
+    },
+    {
+        "hebrew": "גזר",
+        "english": "carrot",
+        "transcription": "ge-zer"
+    },
+    {
+        "hebrew": "גלידה",
+        "english": "ice cream",
+        "transcription": "gli-da"
+    },
+    {
+        "hebrew": "דבש",
+        "english": "honey",
+        "transcription": "dvash"
+    },
+    {
+        "hebrew": "דג",
+        "english": "fish",
+        "transcription": "dag"
+    },
+    {
+        "hebrew": "דובדבן",
+        "english": "cherry",
+        "transcription": "duv-de-van"
+    },
+    {
+        "hebrew": "הודו",
+        "english": "turkey (animal)",
+        "transcription": "ho-du"
+    },
+    {
+        "hebrew": "זית",
+        "english": "olive",
+        "transcription": "za-yit"
+    },
+    {
+        "hebrew": "חומוס",
+        "english": "hummus",
+        "transcription": "khu-mus"
+    },
+    {
+        "hebrew": "חלב",
+        "english": "milk",
+        "transcription": "kha-lav"
+    },
+    {
+        "hebrew": "חלה",
+        "english": "challah",
+        "transcription": "kha-la"
+    },
+    {
+        "hebrew": "חמאה",
+        "english": "butter",
+        "transcription": "khem-a"
+    },
+    {
+        "hebrew": "חמוצים",
+        "english": "pickles",
+        "transcription": "kha-mu-tsim"
+    },
+    {
+        "hebrew": "חסה",
+        "english": "lettuce",
+        "transcription": "kha-sa"
+    },
+    {
+        "hebrew": "חריף",
+        "english": "spicy (hot)",
+        "transcription": "kha-rif"
+    },
+    {
+        "hebrew": "חם",
+        "english": "hot",
+        "transcription": "kham"
+    },
+    {
+        "hebrew": "טלה",
+        "english": "lamb",
+        "transcription": "ta-le"
+    },
+    {
+        "hebrew": "טעים",
+        "english": "tasty",
+        "transcription": "ta-im"
+    },
+    {
+        "hebrew": "יוגורט",
+        "english": "yogurt",
+        "transcription": "yo-gurt"
+    },
+    {
+        "hebrew": "יין",
+        "english": "wine",
+        "transcription": "ya-yin"
+    },
+    {
+        "hebrew": "ירקות",
+        "english": "vegetables",
+        "transcription": "ye-ra-kot"
+    },
+    {
+        "hebrew": "כוס",
+        "english": "glass, cup",
+        "transcription": "kos"
+    },
+    {
+        "hebrew": "כף",
+        "english": "spoon",
+        "transcription": "kaf"
+    },
+    {
+        "hebrew": "כרוב",
+        "english": "cabbage",
+        "transcription": "kruv"
+    },
+    {
+        "hebrew": "לחם",
+        "english": "bread",
+        "transcription": "le-khem"
+    },
+    {
+        "hebrew": "לימון",
+        "english": "lemon",
+        "transcription": "li-mon"
+    },
+    {
+        "hebrew": "מאפה",
+        "english": "pastry",
+        "transcription": "ma-a-fe"
+    },
+    {
+        "hebrew": "מאפייה",
+        "english": "bakery",
+        "transcription": "ma-a-fi-ya"
+    },
+    {
+        "hebrew": "מזלג",
+        "english": "fork",
+        "transcription": "maz-leg"
+    },
+    {
+        "hebrew": "מטוגן",
+        "english": "fried",
+        "transcription": "me-tu-gan"
+    },
+    {
+        "hebrew": "מים",
+        "english": "water",
+        "transcription": "ma-yim"
+    },
+    {
+        "hebrew": "מיץ",
+        "english": "juice",
+        "transcription": "mits"
+    },
+    {
+        "hebrew": "מלח",
+        "english": "salt",
+        "transcription": "me-lakh"
+    },
+    {
+        "hebrew": "מלפפון",
+        "english": "cucumber",
+        "transcription": "me-la-fe-fon"
+    },
+    {
+        "hebrew": "מנגו",
+        "english": "mango",
+        "transcription": "man-go"
+    },
+    {
+        "hebrew": "מנה",
+        "english": "serving/portion",
+        "transcription": "ma-na"
+    },
+    {
+        "hebrew": "מרק",
+        "english": "soup",
+        "transcription": "ma-rak"
+    },
+    {
+        "hebrew": "מתוק",
+        "english": "sweet",
+        "transcription": "ma-tok"
+    },
+    {
+        "hebrew": "סוכר",
+        "english": "sugar",
+        "transcription": "su-kar"
+    },
+    {
+        "hebrew": "סכין",
+        "english": "knife",
+        "transcription": "sa-kin"
+    },
+    {
+        "hebrew": "סלט",
+        "english": "salad",
+        "transcription": "sa-lat"
+    },
+    {
+        "hebrew": "סלק",
+        "english": "beet(root)",
+        "transcription": "se-lek"
+    },
+    {
+        "hebrew": "עגבניה",
+        "english": "tomato",
+        "transcription": "ag-va-ni-ya"
+    },
+    {
+        "hebrew": "עוגה",
+        "english": "cake",
+        "transcription": "u-ga"
+    },
+    {
+        "hebrew": "עוף",
+        "english": "chicken",
+        "transcription": "of"
+    },
+    {
+        "hebrew": "ענבים",
+        "english": "grapes",
+        "transcription": "a-na-vim"
+    },
+    {
+        "hebrew": "פטרוזיליה",
+        "english": "parsley",
+        "transcription": "pet-ro-zil-ya"
+    },
+    {
+        "hebrew": "פטריות",
+        "english": "mushrooms",
+        "transcription": "pit-ri-yot"
+    },
+    {
+        "hebrew": "פיתה",
+        "english": "pita",
+        "transcription": "pi-ta"
+    },
+    {
+        "hebrew": "פלאפל",
+        "english": "falafel",
+        "transcription": "fa-la-fel"
+    },
+    {
+        "hebrew": "פלפל",
+        "english": "pepper",
+        "transcription": "pil-pel"
+    },
+    {
+        "hebrew": "פסטה",
+        "english": "pasta",
+        "transcription": "pas-ta"
+    },
+    {
+        "hebrew": "פרי",
+        "english": "fruit",
+        "transcription": "pri"
+    },
+    {
+        "hebrew": "צלחת",
+        "english": "plate",
+        "transcription": "tsa-la-khat"
+    },
+    {
+        "hebrew": "קינואה",
+        "english": "quinoa",
+        "transcription": "ki-no-a"
+    },
+    {
+        "hebrew": "קישוא",
+        "english": "squash, zucchini",
+        "transcription": "ki-shu"
+    },
+    {
+        "hebrew": "קערה",
+        "english": "bowl",
+        "transcription": "ke-a-ra"
+    },
+    {
+        "hebrew": "קפה",
+        "english": "coffee",
+        "transcription": "ka-fe"
+    },
+    {
+        "hebrew": "רוטב",
+        "english": "sauce",
+        "transcription": "ro-tev"
+    },
+    {
+        "hebrew": "רימון",
+        "english": "pomegranate",
+        "transcription": "ri-mon"
+    },
+    {
+        "hebrew": "שווארמה",
+        "english": "shawarma",
+        "transcription": "sha-war-ma"
+    },
+    {
+        "hebrew": "שום",
+        "english": "garlic",
+        "transcription": "shum"
+    },
+    {
+        "hebrew": "שוקו חם",
+        "english": "hot chocolate",
+        "transcription": "sho-ko kham"
+    },
+    {
+        "hebrew": "שוקולד",
+        "english": "chocolate",
+        "transcription": "sho-ko-lad"
+    },
+    {
+        "hebrew": "שזיף",
+        "english": "plum",
+        "transcription": "she-zif"
+    },
+    {
+        "hebrew": "שמן",
+        "english": "oil",
+        "transcription": "she-men"
+    },
+    {
+        "hebrew": "שמן",
+        "english": "fat",
+        "transcription": "sha-men"
+    },
+    {
+        "hebrew": "שניצל",
+        "english": "schnitzel",
+        "transcription": "shni-tsel"
+    },
+    {
+        "hebrew": "שקד",
+        "english": "almond",
+        "transcription": "sha-ked"
+    },
+    {
+        "hebrew": "שקשוקה",
+        "english": "shakshuka",
+        "transcription": "shak-shu-ka"
+    },
+    {
+        "hebrew": "תה",
+        "english": "tea",
+        "transcription": "te"
+    },
+    {
+        "hebrew": "תות",
+        "english": "strawberry",
+        "transcription": "tut"
+    },
+    {
+        "hebrew": "תמר",
+        "english": "date",
+        "transcription": "ta-mar"
+    },
+    {
+        "hebrew": "תפוז",
+        "english": "orange",
+        "transcription": "ta-puz"
+    },
+    {
+        "hebrew": "תפוח",
+        "english": "apple",
+        "transcription": "ta-pu-akh"
+    },
+    {
+        "hebrew": "תפוח אדמה",
+        "english": "potato",
+        "transcription": "ta-pu-akh a-da-ma"
+    },
+    {
+        "hebrew": "תרד",
+        "english": "spinach",
+        "transcription": "te-red"
+    },
+    {
+        "hebrew": "בטטה",
+        "english": "sweet potato",
+        "transcription": "ba-ta-ta"
+    },
+    {
+        "hebrew": "תאנה",
+        "english": "fig",
+        "transcription": "te-e-na"
+    },
+    {
+        "hebrew": "שתייה",
+        "english": "(a) drink",
+        "transcription": "shti-ya"
+    }
+]

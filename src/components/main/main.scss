@@ -1,0 +1,31 @@
+@use '../../assets/styles/var' as *;
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    background-color: $background
+}
+
+.main-nav {
+    display: grid;
+}
+
+.nav-title {
+    font: 3em $Pen;
+}
+
+.nav {}
+
+.nav-item {}
+
+.card-container {}
+
+.other-topics-card {}
+
+.words-table-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
