@@ -1,5 +1,6 @@
 @use '../../assets/styles/var' as *;
 
+
 .flash-card-container {
     width: 200px;
     border: 1px solid $borderColor;
@@ -8,26 +9,6 @@
     padding-bottom: 10px;
 }
 
-
-.flash-card-front {}
-
-.word-hebrew {}
-
-.word-transcription {}
-
-.flash-card-button {
-    width: 105px;
-    border-radius: 10px;
-    color: #f2e6e6;
-    background-color: #212020b5;
-}
-
-.flash-card-back {}
-
 .hidden {
     display: none;
 }
-
-
-
-.word-english {}
