@@ -10,7 +10,7 @@ function FlashCard(props) {
         setPressed(!pressed)
     };
     return (
-        <Card >
+        <Card className="flash-card-container">
             <div className="flash-card-front">
                 <p className="word-hebrew">{word.hebrew}</p>
                 <p className="word-transcription">{word.transcription}</p>

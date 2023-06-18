@@ -1,20 +1,23 @@
 @use '../../assets/styles/var' as *;
 
+body {
+    padding-top: 100px;
+}
+
 .main-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 10px;
-    background-color: $background
+    background-color: $background;
+    padding-top: 50px;
 }
 
 .main-nav {
     display: grid;
 }
 
-.nav-title {
-    font: 3em $Pen;
-}
+.nav-title {}
 
 .nav {}
 

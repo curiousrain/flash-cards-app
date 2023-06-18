@@ -1,0 +1,11 @@
+@use '../../assets/styles/var' as *;
+
+body {
+    background-color: $background;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}

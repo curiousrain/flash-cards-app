@@ -1,0 +1,45 @@
+@use '../../assets/styles/var' as *;
+
+.general-header {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: auto;
+    justify-items: center;
+    align-items: center;
+    width: 100%;
+    justify-content: start;
+    gap: 30px;
+    padding-left: 15%;
+    position: fixed;
+    position: fixed;
+    background-color: #ffffff;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+
+.logo-image {
+    height: 30px;
+}
+
+.header-title {
+    font-size: 2em;
+}
+
+.header-nav {
+    margin-left: 300px;
+}
+
+ul {
+    display: flex;
+    gap: 100px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    font: 1.2em $Rhodium;
+}
