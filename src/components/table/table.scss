@@ -3,7 +3,7 @@
 table,
 th,
 td {
-    border: 1px solid gray;
+    border: 1px solid #dbd2d2;
     font: 1em $Gothic;
     border-radius: 10px;
     padding: 10px;
@@ -11,7 +11,7 @@ td {
 
 
 .row-button:hover {
-    background-color: red;
+    background-color: rgb(136, 0, 255);
     cursor: pointer;
 }
 

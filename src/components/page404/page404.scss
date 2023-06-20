@@ -1,0 +1,33 @@
+@use '../../assets/styles/var' as *;
+
+.page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.page-title {
+    font: 1.2em $Sake;
+    text-align: center;
+    line-height: 2em;
+    max-width: 50%;
+}
+
+.page-text,
+.page-link {
+    font: 1em $Sake;
+    color: black;
+}
+
+.page-image {
+    width: 35vw;
+    height: 60vh;
+}
+
+.page-link {
+    transition: color .1s;
+}
+
+.page-link:hover {
+    color: #d932d6;
+}

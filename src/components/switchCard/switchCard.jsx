@@ -2,10 +2,10 @@ import FlashCard from "../flashCards/flashCards";
 import { useState } from "react";
 import { Button } from 'primereact/button';
 import 'primeicons/primeicons.css';
-import './slideCard.scss';
+import './switchCard.scss';
 import { ConfirmDialog, confirmDialog } from 'primereact/confirmdialog';
 
-export default function SlideCard({ words }) {
+export default function SwitchCard({ words }) {
     const [wordIndex, setWordIndex] = useState(0);
     const previousCard = () => {
         setWordIndex(wordIndex => {
@@ -38,9 +38,9 @@ export default function SlideCard({ words }) {
         <>
             <ConfirmDialog />
             <div className="slider-container">
-                <Button icon="pi pi-arrow-left" onClick={previousCard} raised size="small" />
+                <Button icon="pi pi-arrow-left" onClick={previousCard} raised size="normal" />
                 <FlashCard word={words[wordIndex]}></FlashCard>
-                <Button icon="pi pi-arrow-right" onClick={nextCard} raised size="small" />
+                <Button icon="pi pi-arrow-right" onClick={nextCard} raised size="normal" />
             </div >
         </>
     )

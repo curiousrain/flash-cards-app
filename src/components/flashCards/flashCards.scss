@@ -1,14 +1,30 @@
 @use '../../assets/styles/var' as *;
 
+body {
+    padding-top: 100px;
+}
 
 .flash-card-container {
+    display: flex;
     width: 200px;
-    border: 1px solid $borderColor;
     border-radius: 20px;
     background-color: #e0d8d8;
     padding-bottom: 10px;
+    justify-content: center;
+}
+
+.flash-card-front {
+    text-align: center;
 }
 
 .hidden {
     display: none;
+}
+
+.flash-card-button {
+    text-align: center;
+}
+
+.flash-card-back {
+    text-align: center;
 }

@@ -1,6 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rhodium+Libre&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap');
+
+@font-face {
+    font-family: 'Sake Moru';
+    src: url('../fonts/SakeMoru-Regular.woff2') format('woff2'),
+        url('../fonts/SakeMoru-Regular.woff') format('woff'),
+        url('../fonts/SakeMoru-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 $Rhodium: 'Rhodium Libre', serif;
 $Pen: 'Nanum Pen Script', cursive;
 $Gothic: 'Nanum Gothic', sans-serif;
+$Sake: 'Sake Moru';
