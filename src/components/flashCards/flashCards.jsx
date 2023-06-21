@@ -1,26 +1,27 @@
-import { useState } from "react";
+import { useState, forwardRef } from "react";
 import "../flashCards/flashCards.scss"
 import { Card } from 'primereact/card';
 import { Button } from "primereact/button";
 
-function FlashCard(props) {
-    const { word } = props;
+const FlashCard = forwardRef(({ word, cardViewed }, ref) => {
+
     const [pressed, setPressed] = useState(false);
     const handleChange = () => {
-        setPressed(!pressed)
+        setPressed(!pressed);
+        cardViewed();
     };
     return (
-        <Card className="flash-card-container">
+        <Card className="flash-card-container" >
             <div className="flash-card-front">
                 <p className="word-hebrew">{word.hebrew}</p>
                 <p className="word-transcription">{word.transcription}</p>
             </div>
-            <Button className="flash-card-button" onClick={handleChange}> See translation</Button>
+            <Button className="flash-card-button" onClick={handleChange} ref={ref}> See translation</Button>
             <div className={"flash-card-back " + (pressed ? "" : "hidden")}>
                 <p className="word-english">{word.english}</p>
             </div>
-        </Card>
+        </Card >
     )
-}
+});
 
 export default FlashCard;
