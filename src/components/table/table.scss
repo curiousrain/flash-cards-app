@@ -49,3 +49,7 @@ td {
     background-image: url(~/public/assets/images/delete.png);
     background-repeat: no-repeat;
 }
+
+.has-error {
+    outline: solid red;
+}
