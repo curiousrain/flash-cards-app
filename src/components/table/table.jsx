@@ -4,6 +4,11 @@ import "../table/table.scss"
 function Table(props) {
     const [words, updateWords] = useState(props.words);
     const [editedWords, updateEditedWords] = useState({});
+    const fields = [
+        "hebrew",
+        "english",
+        "transcription"
+    ]
     const editWord = (index) => {
         const word = words[index];
         word.isEdit = !word.isEdit;
@@ -17,7 +22,8 @@ function Table(props) {
     };
     const updateWord = (index, fieldName, e) => {
         const word = editedWords[index];
-        word[fieldName] = e.target.value;
+        const wordValue = e.target.value.trim();
+        word[fieldName] = wordValue;
         updateEditedWords({ ...editedWords });
     }
     const addWord = () => {
@@ -41,6 +47,20 @@ function Table(props) {
     };
     const saveWord = (index) => {
         const updateWord = editedWords[index];
+        const fieldValidation = /[a - zA - Z\u0590 -\u05FF\u200f\u200e] + ((([-, \.\s] +) ? [a - zA - Z\u0590 -\u05FF\u200f\u200e] +) ?) +/;
+        updateWord.errors = [];
+        let hasErrors = false;
+        fields.forEach((field) => {
+            if (updateWord[field] === '' || !fieldValidation.test(field)) {
+                updateWord.errors.push(field);
+                hasErrors = true;
+            }
+        });
+        if (hasErrors) {
+            editedWords[index] = updateWord;
+            updateEditedWords({ ...editedWords });
+            return
+        }
         words[index] = updateWord;
         editWord(index);
     }
@@ -57,11 +77,10 @@ function Table(props) {
             <tbody className="rows-container">
                 {words.map((word, index) => word.isEdit
                     ? <tr>
-                        <td className="row-content"><input type="text" value={editedWords[index].hebrew} onChange={(e) => updateWord(index, "hebrew", e)} /></td>
-                        <td className="row-content"><input type="text" value={editedWords[index].english} onChange={(e) => updateWord(index, "english", e)} /></td>
-                        <td className="row-content"><input type="text" value={editedWords[index].transcription} onChange={(e) => updateWord(index, "transcription", e)} /></td>
+                        {fields.map((field) =>
+                            <td className="row-content"><input type="text" className={editedWords[index].errors?.includes(field) ? "has-error" : ""} value={editedWords[index][field]} onChange={(e) => updateWord(index, field, e)} /></td>)}
                         <td className="row-content row-content-buttons">
-                            <button className="row-button-save row-button" onClick={() => saveWord(index)}></button>
+                            <button className="row-button-save row-button" disabled={editedWords[index].errors?.length > 0} onClick={() => saveWord(index)}></button>
                             <button className="row-button-edit row-button" onClick={() => editWord(index)}></button>
                             <button className="row-button-delete row-button" onClick={() => deleteWord(index)}></button>
                         </td>
