@@ -1,9 +1,18 @@
 import { useState } from "react";
 import "../table/table.scss"
+import TopicSelector from "../topicSelector/topicSelector";
+import { DataTable } from 'primereact/datatable';
+import { Column } from 'primereact/column';
+import { useContext } from "react";
+import { WordsContext } from "../wordsContext/wordsContext";
+import { setWordInFirebase, deleteWordInFirebase } from '../firebaseInnit/firebase';
+import { UserContext } from "../userContext/userContext";
+
 
 function Table(props) {
-    const [words, updateWords] = useState(props.words);
     const [editedWords, updateEditedWords] = useState({});
+    const { words, topic, updateWords } = useContext(WordsContext);
+    const { user } = useContext(UserContext);
     const fields = [
         "hebrew",
         "english",
@@ -42,12 +51,15 @@ function Table(props) {
         updateEditedWords(newEditedWords);
     }
     const deleteWord = (index) => {
-        words.splice(index, 1)
-        updateWords([...words]);
+        deleteWordInFirebase(words[index], topic)
+            .then(() => {
+                words.splice(index, 1)
+                updateWords([...words]);
+            })
     };
     const saveWord = (index) => {
         const updateWord = editedWords[index];
-        const fieldValidation = /[a - zA - Z\u0590 -\u05FF\u200f\u200e] + ((([-, \.\s] +) ? [a - zA - Z\u0590 -\u05FF\u200f\u200e] +) ?) +/;
+        const fieldValidation = /[A-za-z\u0590-\u05fe]+/;
         updateWord.errors = [];
         let hasErrors = false;
         fields.forEach((field) => {
@@ -61,42 +73,53 @@ function Table(props) {
             updateEditedWords({ ...editedWords });
             return
         }
-        words[index] = updateWord;
-        editWord(index);
+        const wordToSave = {
+            "hebrew": updateWord.hebrew,
+            "english": updateWord.english,
+            "transcription": updateWord.transcription,
+            "author": user?.uid
+        }
+        words[index] = wordToSave;
+        setWordInFirebase(wordToSave, topic)
+            .then(() => {
+                editWord(index)
+            })
     }
     return (
-        <table className="table-container">
-            <thead className="columns-container">
-                <tr className="columns">
-                    <th className="column-name">hebrew</th>
-                    <th className="column-name">english</th>
-                    <th className="column-name">transcription</th>
-                    <th> <button className="add-word-button row-button" onClick={addWord}>add new word</button></th>
-                </tr>
-            </thead>
-            <tbody className="rows-container">
-                {words.map((word, index) => word.isEdit
-                    ? <tr>
-                        {fields.map((field) =>
-                            <td className="row-content"><input type="text" className={editedWords[index].errors?.includes(field) ? "has-error" : ""} value={editedWords[index][field]} onChange={(e) => updateWord(index, field, e)} /></td>)}
-                        <td className="row-content row-content-buttons">
-                            <button className="row-button-save row-button" disabled={editedWords[index].errors?.length > 0} onClick={() => saveWord(index)}></button>
-                            <button className="row-button-edit row-button" onClick={() => editWord(index)}></button>
-                            <button className="row-button-delete row-button" onClick={() => deleteWord(index)}></button>
-                        </td>
+        <>
+            <TopicSelector></TopicSelector>
+            <table className="table-container">
+                <thead className="columns-container">
+                    <tr className="columns">
+                        <th className="column-name">hebrew</th>
+                        <th className="column-name">english</th>
+                        <th className="column-name">transcription</th>
+                        <th> <button className="add-word-button row-button" onClick={addWord}>add new word</button></th>
                     </tr>
-                    : <tr key={index}>
-                        <td className="row-content">{word.hebrew}</td>
-                        <td className="row-content">{word.english}</td>
-                        <td className="row-content">{word.transcription}</td>
-                        <td className="row-content row-content-buttons">
-                            <button className="row-button-edit row-button" onClick={() => editWord(index)}></button>
-                            <button className="row-button-delete row-button" onClick={() => deleteWord(index)}></button>
-                        </td>
-                    </tr>)}
-            </tbody>
-        </table>
-
+                </thead>
+                <tbody className="rows-container">
+                    {words.map((word, index) => word.isEdit
+                        ? <tr key={index}>
+                            {fields.map((field) =>
+                                <td className="row-content" key={field}><input type="text" className={editedWords[index].errors?.includes(field) ? "has-error" : ""} value={editedWords[index][field]} onChange={(e) => updateWord(index, field, e)} /></td>)}
+                            <td className="row-content row-content-buttons">
+                                <button className="row-button-save row-button" disabled={editedWords[index].errors?.length > 0} onClick={() => saveWord(index)}></button>
+                                <button className="row-button-edit row-button" onClick={() => editWord(index)}></button>
+                                <button className="row-button-delete row-button" onClick={() => deleteWord(index)}></button>
+                            </td>
+                        </tr>
+                        : <tr key={index}>
+                            <td className="row-content">{word.hebrew}</td>
+                            <td className="row-content">{word.english}</td>
+                            <td className="row-content">{word.transcription}</td>
+                            <td className="row-content row-content-buttons">
+                                <button className="row-button-edit row-button" disabled={word.author == null} onClick={() => editWord(index)}></button>
+                                <button className="row-button-delete row-button" disabled={word.author == null} onClick={() => deleteWord(index)}></button>
+                            </td>
+                        </tr>)}
+                </tbody>
+            </table>
+        </>
     )
 }
 

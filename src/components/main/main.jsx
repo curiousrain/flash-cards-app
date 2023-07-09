@@ -5,11 +5,10 @@ import clothes from "../wordsByTopic/clothes-words.json"
 import food from "../wordsByTopic/food-drinks-words.json"
 import "../main/main.scss"
 function MainPage() {
-    const allWords = colors.concat(general, clothes, food);
     return (
         <div className="main-container">
             <div className="words-table-container">
-                <Table words={allWords}></Table>
+                <Table ></Table>
             </div>
         </div>
     )

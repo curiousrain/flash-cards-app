@@ -9,7 +9,20 @@ import {
   Route,
   Link
 } from "react-router-dom";
+import React, { useEffect } from 'react';
+import { getWords } from './components/firebaseInnit/firebase';
+// import colors from "./components/wordsByTopic/colors-words.json";
+// import clothes from "./components/wordsByTopic/clothes-words.json";
+// import food from "./components/wordsByTopic/food-drinks-words.json";
 function App() {
+  // useEffect(() => {
+  //   const fetchData = async () => {
+  //     // addWords(colors, 'colors');
+  //     await getWords()
+  //   }
+  //   fetchData()
+  //     .catch(console.error);
+  // }, [])
   return (
     <Router>
       <>
