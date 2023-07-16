@@ -7,8 +7,8 @@ import { Button } from 'primereact/button';
 import { UserContext } from "../userContext/userContext";
 import { useContext } from "react";
 
-export default function Header() {
-    const { user, login, logout } = useContext(UserContext);
+export default function Header(props) {
+    const RootStore = props;
     return (
         <header className="general-header">
             <img src="assets/images/hebrew.png" alt="logo" className="logo-image" />
@@ -23,13 +23,13 @@ export default function Header() {
                     </li>
                     <li>
                         {
-                            user === null
-                                ? <Button label="Login" onClick={login}></Button>
-                                : <Button label="Logout" onClick={logout}></Button>
+                            RootStore.user === null
+                                ? <Button label="Login" onClick={RootStore.login}></Button>
+                                : <Button label="Logout" onClick={RootStore.logout}></Button>
                         }
                     </li>
                     <li>
-                        {user?.displayName}
+                        {RootStore.user?.displayName}
                     </li>
                 </ul>
             </nav>

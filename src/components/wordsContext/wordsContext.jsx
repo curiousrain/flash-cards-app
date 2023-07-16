@@ -1,34 +1,28 @@
+import { Provider } from 'mobx-react';
 import React, { useContext, useEffect, useState } from "react";
 import { getWords } from "../firebaseInnit/firebase";
 import { UserContext } from "../userContext/userContext";
 const WordsContext = React.createContext();
 
-function WordsContextProvider(props) {
-    const [words, updateWords] = useState([]);
-    const [topic, setTopic] = useState("");
-    const { user } = useContext(UserContext)
 
-    async function updateTopic(topic) {
-        setTopic(topic);
-        const words = await getWords(topic, user?.uid);
-        updateWords(words);
-    }
+function WordsContextProvider(props) {
+
+    const RootStore = props;
 
     useEffect(() => {
-        if (topic !== "" || user == null)
+        if (RootStore.topic !== "" || RootStore.user == null)
             return;
         const setDefaultValue = async () => {
-            await updateTopic('colors');
+            await RootStore.updateTopic('colors');
         }
         setDefaultValue()
             .catch(console.error)
-    }, user)
+    }, RootStore.user)
 
     return (
-        <WordsContext.Provider value={{ words, topic, updateTopic, updateWords }}>
+        <Provider {...RootStore}>
             {props.children}
-        </WordsContext.Provider>
-
+        </Provider>
     );
 }
 

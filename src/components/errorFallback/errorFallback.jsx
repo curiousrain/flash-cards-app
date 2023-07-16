@@ -1,5 +1,4 @@
 function ErrorFallback({ error, resetErrorBoundary }) {
-    debugger
     return (
         <div role="alert">
             <p>Something went wrong:</p>

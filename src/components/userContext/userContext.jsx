@@ -1,18 +1,13 @@
+import { Provider } from 'mobx-react';
 import React, { useEffect, useState } from "react";
 import { getAuth, getRedirectResult, GoogleAuthProvider, onAuthStateChanged, signInWithRedirect, signOut } from "firebase/auth";
 const UserContext = React.createContext();
 
+
 function UserContextProvider(props) {
     const auth = getAuth();
-    const [user, setUser] = useState(auth.currentUser);
-    const login = () => {
-        const provider = new GoogleAuthProvider();
-        provider.addScope('https://www.googleapis.com/auth/contacts.readonly');
-        provider.setCustomParameters({
-            'login_hint': 'user@example.com'
-        });
-        signInWithRedirect(auth, provider);
-    }
+    const user = auth.currentUser;
+    const RootStore = props;
     useEffect(() => {
         getRedirectResult(auth)
             .then((result) => {
@@ -22,7 +17,7 @@ function UserContextProvider(props) {
 
                 // The signed-in user info.
                 const user = result.user;
-                setUser(user);
+                RootStore.setUser(user);
                 // IdP data available using getAdditionalUserInfo(result)
                 // ...
             }).catch((error) => {
@@ -38,26 +33,18 @@ function UserContextProvider(props) {
             if (user) {
                 // User is signed in, see docs for a list of available properties
                 // https://firebase.google.com/docs/reference/js/auth.user
-                setUser(user);
+                RootStore.setUser(user);
                 // ...
             } else {
-                setUser(auth.currentUser);
+                RootStore.setUser(auth.currentUser);
             }
         });
     });
-    const logout = () => {
-        signOut(auth).then(() => {
-            // Sign-out successful.
-        }).catch((error) => {
-            console.error(error)
-        });
-    }
-
 
     return (
-        <UserContext.Provider value={{ user, login, logout }}>
+        <Provider {...RootStore}>
             {props.children}
-        </UserContext.Provider>
+        </Provider>
     )
 }
 export { UserContextProvider, UserContext };
